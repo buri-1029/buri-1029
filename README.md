@@ -1,5 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FE9A2E&fontColor=black&height=300&section=header&text=BUHEE%20KIM&fontSize=85&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=F7BE81&height=150&section=header&text=BUHEE%20KIM&fontSize=50&animation=twinkling&fontColor=F8ECE0" />
 
+
+<br>
 
 <h3 align="center">
     <a href="https://www.notion.so/KIM-BUHEE-7d77eddf6a5a498fa009b5b86a5389a5" style="color: black; text-decoration: none;"> 
@@ -15,14 +17,13 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-FE642E?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
   <br>
