@@ -4,7 +4,7 @@
 <br>
 
 <h3 align="center">
-    <a href="https://www.notion.so/KIM-BUHEE-7d77eddf6a5a498fa009b5b86a5389a5" style="color: black; text-decoration: none;"> 
+    <a href="https://www.notion.so/b09a47e0fab94e7aaf2021fed1c94785" style="color: black; text-decoration: none;"> 
 	View Resume
     </a>
 </h3>
