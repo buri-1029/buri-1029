@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=F7BE81&height=150&section=header&text=BUHEE%20KIM&fontSize=50&animation=twinkling&fontColor=F8ECE0" />
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=7DB249&height=150&section=header&text=BUHEE%20KIM&fontSize=50&animation=twinkling&fontColor=EEEEEE" />
 
 
 <br>
@@ -12,7 +12,7 @@
 <br>
 
 
-<h3 align="center">🧡 Tech Stack 🧡</h3>
+<h3 align="center"> 💚 Tech Stack 💚</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -44,7 +44,7 @@
 </p>
 <br>
 
-<h3 align="center"> 🧡 It's Me 🧡 </h3>
+<h3 align="center"> 💚 It's Me 💚 </h3>
 <p align="center">
   <a href="https://velog.io/@buri-1029"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@buri-1029"/></a>&nbsp
 <!--   <a href="https://www.instagram.com/bu._.rii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bu._.rii/"/></a>&nbsp -->
