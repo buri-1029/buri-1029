@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=7DB249&height=150&section=header&text=BUHEE%20KIM&fontSize=50&animation=twinkling&fontColor=EEEEEE" />
 
-
 <br>
 
 <h3 align="center">
