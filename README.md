@@ -4,7 +4,7 @@
 
 <h3 align="center">
     <a href="https://www.notion.so/b09a47e0fab94e7aaf2021fed1c94785" style="color: black; text-decoration: none;"> 
-	View Resume
+	Portfolio
     </a>
 </h3>
 
