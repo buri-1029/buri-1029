@@ -3,8 +3,8 @@
 <br/>
 
 <h3 align="center">
-    <a href="https://www.notion.so/b09a47e0fab94e7aaf2021fed1c94785" style="color: black; text-decoration: none;"> 
-	Portfolio
+    <a href="https://buri-i.notion.site/KIM-BUHEE-e51a2175beea475583233172b807b026" style="color: black; text-decoration: none;"> 
+	resume
     </a>
 </h3>
 
